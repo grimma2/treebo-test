@@ -10,3 +10,5 @@
  - addnote
  - mynotes
 Указаны в боте
+
+# Перейти в бота https://t.me/treebonotesbot
